@@ -1,6 +1,6 @@
 # Escalação de jogadores
 
-## Tarefa da matéria Programação Orientada a Objetos feita na Instituição SENAC-RS
+>Tarefa da matéria Programação Orientada a Objetos feita na Instituição SENAC-RS
 
 ### Descrição da tarefa: 
 
